@@ -2,10 +2,10 @@
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: https://<your-github-username>.github.io # the base hostname & protocol for your site
+url: https://kent-time-walk.github.io # the base hostname & protocol for your site
 
 # The base URL of your site
-baseurl: # the subpath of your site, e.g. '/blog', keep it empty if your site is at the root of a domain
+baseurl: /sandwich # the subpath of your site, e.g. '/blog', keep it empty if your site is at the root of a domain
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -21,8 +21,8 @@ description: >- # used by seo meta and the atom feed
 avatar: /assets/img/logo.png
 
 github:
-  username: <your-github-username> # change to your GitHub username
-  repository: <your-github-repository> # change to your GitHub repository name, e.g. 'my-blog'
+  username: kent-time-walk # change to your GitHub username
+  repository: sandwich # change to your GitHub repository name, e.g. 'my-blog'
   
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
